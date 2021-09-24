@@ -34,7 +34,7 @@
 /ios/
 /web/
 /windows/
-
+/assets/
 
 # Web related
 lib/generated_plugin_registrant.dart
